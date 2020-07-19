@@ -1,4 +1,4 @@
-# Set-Map-algoritms_tasks
+# Set-Map-algorithms_tasks
 
 ## This repository contains of following files
 * dictionaryMap.js
